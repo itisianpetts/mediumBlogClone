@@ -3,10 +3,11 @@
 
  
 ##### Frontend: Next.JS, TailwindCSS, Typescript
-- Deployed via Vercel -  https://medium-blog-clone-ip.vercel.app/
-
 ##### Backend: Sanity
 <br />
+- Deployed via Vercel -  https://medium-blog-clone-ip.vercel.app/
+
+
 
 
 ### Home Page
