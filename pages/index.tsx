@@ -59,10 +59,8 @@ export default function Home({ posts }: Props) {
       <div className="mx-auto flex max-w-7xl">
         <div className="mx-auto grid grid-cols-1 gap-3 p-2 sm:grid-cols-2 md:gap-6 md:p-6 lg:grid-cols-3">
           {posts.map((post, idx) => (
-            <div className="flex">
-              <p key={idx} className="p-2 pb-3 text-2xl text-gray-500">
-                0{idx + 1}
-              </p>
+            <div key={idx} className="flex">
+              <p className="p-2 pb-3 text-2xl text-gray-500">0{idx + 1}</p>
 
               <Link key={post._id} href={`/post/${post.slug.current}`}>
                 <div className="cursor-pointer overflow-hidden rounded-lg">
