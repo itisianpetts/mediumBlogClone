@@ -28,7 +28,7 @@ export default function Home({ posts }: Props) {
               Medium is a place to write, read, and connect
             </h1>
             <h2 className="max-w-sm py-5 leading-relaxed md:py-2">
-              It's easy and free to post your thinking on any topic and connect
+              Its easy and free to post your thinking on any topic and connect
               with millions of readers.
             </h2>
             <button className="mt-2 rounded-full border border-gray-900 bg-gray-100 px-5 py-2">
