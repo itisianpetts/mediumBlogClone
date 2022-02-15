@@ -211,6 +211,7 @@ export const getStaticPaths = async () => {
   const posts = await sanityClient.fetch(query)
 
   const paths = posts.map((post: Post) => ({
+    key: post.slug.current,
     params: {
       slug: post.slug.current,
     },
