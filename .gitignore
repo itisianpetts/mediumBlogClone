@@ -5,7 +5,7 @@
 /.pnp
 .pnp.js
 
-mediumclone
+mediumclone/node_modules
 
 # testing
 /coverage
