@@ -3,7 +3,7 @@
 
  
 ##### Frontend: Next.JS, TailwindCSS, Typescript
-##### Backend: Sanity
+##### Backend/CMS: Sanity
 - Deployed via Vercel -  https://medium-blog-clone-ip.vercel.app/
 
 
